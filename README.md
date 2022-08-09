@@ -16,8 +16,9 @@ AU: redirect from [kickback](https://kickback.com.au/conversion/merchants/bonds/
 <br>
 AU: redirect from [linksynergy](https://click.linksynergy.com/fs-bin/click?id=/yGfdSU4Hew&offerid=558742.936&type=3&subid=0&u1=t625285583m) to [cottonon](https://cottonon.com/AU/)
 #### affiliate(.api).rakuten.com
-TW: 
-[Rakuten](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&ar=1a0d8dccecb7dbb3e661d9ea76b24b5b3cc271130acbc8f83d8fecbdc9eefc6a9951df4322d2499b&pr=63b55d598d8c4861&ap=pr%3D63b55d598d8c4861&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Ffamily2%2Fproduct%2Fbncqwo57x%2F%3Fgid%3Da3748643a8bed24ab8750649a573e1dc%26scid%3Drafp-i001_%26)
+TW: redirect from [affiliate.api.rakuten.com](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&ar=1a0d8dccecb7dbb3e661d9ea76b24b5b3cc271130acbc8f83d8fecbdc9eefc6a9951df4322d2499b&pr=63b55d598d8c4861&ap=pr%3D63b55d598d8c4861&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Ffamily2%2Fproduct%2Fbncqwo57x%2F%3Fgid%3Da3748643a8bed24ab8750649a573e1dc%26scid%3Drafp-i001_%26) to [rakuten](https://www.rakuten.com.tw/)
+<br>
+TW: redirect from [biggo](https://biggo.com.tw/r/?i=tw_pmall_rakuten&id=hirosh01_EP2220&purl=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Fhirosh01%2Fproduct%2FEP2220&q=philips+%E5%92%96%E5%95%A1%E6%A9%9F&lb=product_groupingpage) to [affiliate.api.rakuten.com](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&ar=93cc11a5693c26fa8bc7c54f01b8f9e3b601e7027df43efb93000e3163fa586b1e4de7702a475dff&pr=420457e88ecc9146&ap=pr%3D420457e88ecc9146&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Fhirosh01%2Fproduct%2FEP2220%3Fscid%3Drafp-b118%26utm_source%3Dbiggo%26utm_medium%3Drafp-b118%26utm_campaign%3Dnormal%26gid%3Dbiggo) to [rakuten](https://www.rakuten.com.tw/)
 
 ### query string
 Notifier will stand down if user is redirected from a link that has a specific query string
