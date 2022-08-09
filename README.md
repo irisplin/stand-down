@@ -7,6 +7,9 @@ Notifiers will stand down if user is redirected from a link that belongs to an a
 AU: 
 [ASOS](https://click.linksynergy.com/fs-bin/click?id=M0zsL0HhfQc&offerid=467717.3&type=3&subid=0&u1=44594061SB010)
 <br>
+AU: 
+[petbarn](https://www.joinhoney.com/shop/petbarn-au)
+<br>
 SG: 
 [dyson](https://click.linksynergy.com/deeplink?id=xGCTEDxXvh0&mid=47231&u1=A2ASUBID&murl=https%3A%2F%2Fwww.dyson.com.sg%2F?utm_content=cuponation)
 <br>
@@ -21,7 +24,11 @@ Notifier will stand down if user is redirected from a link that has a specific q
 <br>
 <br>
 TW:
-[PChome線上購物](https://www.iuprice.com/r/a/14/27010?afsrc=1)
+[PChome24](https://www.findprice.com.tw/go/gh28q9g8/?s=0&t=1&afsrc=1)
 <br>
 SG:
 [amazon](https://metric.picodi.com/sg/r/89733?afsrc=1)
+<br>
+AU:
+[petbarn](https://o.honey.io/store/89864159313478712/offer_claim?exv=ch.15.2.0.8703342671131122374.8703342669023392966&afsrc=1&src=honey-web¶m0=8703342671131122374&af0=1660032520615&af8=StoreFrontPageV3
+)
