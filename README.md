@@ -25,12 +25,8 @@ TW: redirect from [biggo](https://biggo.com.tw/r/?i=tw_pmall_rakuten&id=biggo&pu
 Notifier will stand down if user is redirected from a link that has a specific query string
 <br>
 <br>
-TW:
-[pcone](https://www.findprice.com.tw/go/gxrx3nzr/?s=0&t=1&afsrc=1) 
+TW: redirect from [findprice](https://www.findprice.com.tw/go/gxrx3nzr/?s=0&t=1&afsrc=1) to [pcone](https://www.pcone.com.tw/)
 <br>
-SG:
-[amazon](https://metric.picodi.com/sg/r/89733?afsrc=1)
+SG: redirect from [picodi](https://metric.picodi.com/sg/r/89733?afsrc=1) to [amazon](https://www.amazon.sg/)
 <br>
-AU:
-[petbarn](https://o.honey.io/store/89864159313478712/offer_claim?exv=ch.15.2.0.8703342671131122374.8703342669023392966&afsrc=1&src=honey-web¶m0=8703342671131122374&af0=1660032520615&af8=StoreFrontPageV3
-)
+AU: redirect from [honey](https://o.honey.io/store/89864159313478712/offer_claim?exv=ch.15.2.0.8703342671131122374.8703342669023392966&afsrc=1&src=honey-web¶m0=8703342671131122374&af0=1660032520615&af8=StoreFrontPageV3) to [petbarn](https://www.petbarn.com.au/)
