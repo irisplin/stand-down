@@ -8,7 +8,10 @@ AU:
 [ASOS](https://click.linksynergy.com/fs-bin/click?id=M0zsL0HhfQc&offerid=467717.3&type=3&subid=0&u1=44594061SB010)
 <br>
 AU: 
-[petbarn](https://www.joinhoney.com/shop/petbarn-au)
+[petbarn](https://click.linksynergy.com/deeplink?id=pfLaClXlf20&mid=42443&u1=8703342671131122374-a8703353879449196902&murl=https%3A%2F%2Fwww.petbarn.com.au%2F)
+<br>
+AU: 
+[bonds](https://o.honey.io/store/7586952471411757616/offer_claim?exv=ch.15.2.0.8703342671131122374.8703342669023392966&src=honey-web%C2%B6m0=8703342671131122374&af0=1660032681693&af8=StoreFrontPageV3)
 <br>
 SG: 
 [dyson](https://click.linksynergy.com/deeplink?id=xGCTEDxXvh0&mid=47231&u1=A2ASUBID&murl=https%3A%2F%2Fwww.dyson.com.sg%2F?utm_content=cuponation)
