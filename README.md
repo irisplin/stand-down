@@ -26,7 +26,7 @@ Notifier will stand down if user is redirected from a link that has a specific q
 <br>
 <br>
 TW:
-[PChome24](https://www.findprice.com.tw/go/gh28q9g8/?s=0&t=1&afsrc=1)
+[pcone](https://www.findprice.com.tw/go/gxrx3nzr/?s=0&t=1&afsrc=1) 
 <br>
 SG:
 [amazon](https://metric.picodi.com/sg/r/89733?afsrc=1)
