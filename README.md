@@ -3,24 +3,18 @@
 
 ### affiliate network
 Notifiers will stand down if user is redirected from a link that belongs to an affiliate network that has requested us to stand down
-#### click.linksynergy.com 
-AU: 
-[ASOS](https://click.linksynergy.com/fs-bin/click?id=M0zsL0HhfQc&offerid=467717.3&type=3&subid=0&u1=44594061SB010)
+#### linksynergy 
+SG: redirect from [couponation](https://www.cuponation.com.sg/api/seo/redirect?cid=be18fa962bb4793b33a42c970afdca7b&url=dyson-coupon) to [linksynergy](https://click.linksynergy.com/deeplink?id=xGCTEDxXvh0&mid=47231&u1=A2ASUBID&murl=https%3A%2F%2Fwww.dyson.com.sg%2F?utm_content=cuponation) to [dyson](https://www.dyson.com.sg/)
 <br>
-AU: 
-[petbarn](https://click.linksynergy.com/deeplink?id=pfLaClXlf20&mid=42443&u1=8703342671131122374-a8703353879449196902&murl=https%3A%2F%2Fwww.petbarn.com.au%2F)
+SG: redirect from [milkadeal](https://www.milkadeal.sg/stores/shop/48) to [linksynergy](https://click.linksynergy.com/deeplink?id=KtlS/wRigh4&mid=41134&u1=MDDTSG15982&murl=https%3A%2F%2Fwww.nike.com%2Fsg%2Fen_gb%2F) to [nike](https://www.nike.com/sg/)
 <br>
-SG: 
-[dyson](https://click.linksynergy.com/deeplink?id=xGCTEDxXvh0&mid=47231&u1=A2ASUBID&murl=https%3A%2F%2Fwww.dyson.com.sg%2F?utm_content=cuponation)
+TW: redirect from [rewardpay](https://www.rewardpay.com/tw/Click?O=5572850) to [linksynergy](https://click.linksynergy.com/deeplink?id=pITOEqOhvpQ&mid=40584&u1=220809176f4427441e9547&subid=1260439&murl=https%3A%2F%2Fwww.yoox.com%2Ftw%2Fwomen) to [yoox](https://www.yoox.com/tw)
 <br>
-TW: 
-[nike](https://click.linksynergy.com/deeplink?id=zErSluD8o3g&mid=41134&u1=213e87a3c70b48b59e992a24738cbeff&subid=25983&murl=https%3A%2F%2Fwww.nike.com%2Ftw)
+AU: redirect from [quantas](https://shopping.qantas.com/shop?id=petbarn) to [linksynergy](https://click.linksynergy.com/fs-bin/click?id=/yGfdSU4Hew&offerid=502078.5&type=3&subid=0&u1=t625284142m) to [petbarn](https://www.petbarn.com.au/)
 <br>
-AU: from honey to linksynergy to merchant site
-[bonds](https://o.honey.io/store/7586952471411757616/offer_claim?exv=ch.15.2.0.8703342671131122374.8703342669023392966&src=honey-web%C2%B6m0=8703342671131122374&af0=1660032681693&af8=StoreFrontPageV3)
+AU: redirect from [kickback](https://kickback.com.au/conversion/merchants/bonds/redirect/) to [linksynergy](https://click.linksynergy.com/deeplink?id=Yi8K9xa1WDE&mid=38921&murl=https%3A%2F%2Fwww.bonds.com.au%2F&u1=5893b28d-b447-4833-ad67-caea7942998b) to [bonds](https://www.bonds.com.au/)
 <br>
-AU: from quantas to linksynergy to merchant site
-[petbarn](https://shopping.qantas.com/shop?id=petbarn)
+AU: redirect from [linksynergy](https://click.linksynergy.com/fs-bin/click?id=/yGfdSU4Hew&offerid=558742.936&type=3&subid=0&u1=t625285583m) to [cottonon](https://cottonon.com/AU/)
 #### affiliate(.api).rakuten.com
 TW: 
 [Rakuten](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&ar=1a0d8dccecb7dbb3e661d9ea76b24b5b3cc271130acbc8f83d8fecbdc9eefc6a9951df4322d2499b&pr=63b55d598d8c4861&ap=pr%3D63b55d598d8c4861&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Ffamily2%2Fproduct%2Fbncqwo57x%2F%3Fgid%3Da3748643a8bed24ab8750649a573e1dc%26scid%3Drafp-i001_%26)
