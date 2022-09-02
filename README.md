@@ -1,7 +1,7 @@
 ## How to verify if Cashback/Login Notifier stands down properly
 1. install Chrome extension [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll?hl=en) or Firefox addon [Link Redirect Trace](https://addons.mozilla.org/en-US/firefox/addon/link-redirect-trace-addon/) 
 2. log in to the market where you would like to test stand-down 
-3. click the links from other publishers (couponation, quantas, etc.,) Usually publishers' tracking links would be cloaked or hidden from end users. But Cashback Notifer should also stand down if end users click linksynergy urls directly 
+3. click the links gathered from other publishers (couponation, quantas, etc.,) Some of them require account registration/sign up. Usually publishers' tracking links would be cloaked or hidden from end users. But Cashback Notifer should also stand down if end users click linksynergy urls directly 
 4. use Redirect Path/Link Redirect Trace to check url redirects. 
 5. when redirects contain stand-down rules, Cashback Notifier should stand down
 
