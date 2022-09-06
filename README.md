@@ -30,11 +30,12 @@ TW: redirect from [biggo](https://biggo.com.tw/r/?i=tw_pmall_rakuten&id=biggo&pu
 
 
 ### query string
-Notifier will stand down if user is redirected from a link that has a specific query string
+Notifier will stand down if user is redirected from a link that has a specific query string. The afsrc=1 is an industry-recognized parameter that was created by the major affiliate networks to prevent software publishers from overwriting another publisher's link.
 <br>
 <br>
 TW: redirect from [findprice](https://www.findprice.com.tw/go/gxrx3nzr/?s=0&t=1&afsrc=1) to [pcone](https://www.pcone.com.tw/)
 <br>
 SG: redirect from [picodi](https://metric.picodi.com/sg/r/89733?afsrc=1) to [amazon](https://www.amazon.sg/)
 <br>
-AU: redirect from [honey](https://o.honey.io/store/89864159313478712/offer_claim?exv=ch.15.2.0.8703342671131122374.8703342669023392966&afsrc=1&src=honey-web¶m0=8703342671131122374&af0=1660032520615&af8=StoreFrontPageV3) to [petbarn](https://www.petbarn.com.au/)
+target.au belongs to Partnerize affiliate network, not Rakuten Advertising affiliate network. This test case is to test if extension would honer redirect link with afsrc=1 url parameter and successfully stands down even if the merchant belongs to other affiliate network.
+AU: redirect from [couponation](https://www.cuponation.com.au/api/seo/redirect?cid=86cf42151e0a90832203bad4da33fd6d&url=target-coupons&afsrc=1) to [target](https://www.target.com.au/) 
