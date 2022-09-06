@@ -37,5 +37,6 @@ TW: redirect from [findprice](https://www.findprice.com.tw/go/gxrx3nzr/?s=0&t=1&
 <br>
 SG: redirect from [picodi](https://metric.picodi.com/sg/r/89733?afsrc=1) to [amazon](https://www.amazon.sg/)
 <br>
-target.au belongs to Partnerize affiliate network, not Rakuten Advertising affiliate network. This test case is to test if extension would honer redirect link with afsrc=1 url parameter and successfully stands down even if the merchant belongs to other affiliate network.
-AU: redirect from [couponation](https://www.cuponation.com.au/api/seo/redirect?cid=86cf42151e0a90832203bad4da33fd6d&url=target-coupons&afsrc=1) to [target](https://www.target.com.au/) 
+AU: redirect from [couponation](https://www.cuponation.com.au/api/seo/redirect?cid=86cf42151e0a90832203bad4da33fd6d&url=target-coupons&afsrc=1) to [target](https://www.target.com.au/)
+<br>
+target.au belongs to Partnerize affiliate network, not Rakuten Advertising affiliate network. This test case is to test if extension would honour redirect link with afsrc=1 url parameter and successfully stands down even if the merchant belongs to other affiliate network.
