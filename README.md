@@ -5,6 +5,8 @@
 4. use Redirect Path/Link Redirect Trace to check url redirects. 
 5. when redirects contain stand-down rules, Cashback Notifier should stand down
 
+## Notes
+Once extension stands down, Cashback Notifier will stand down for 24 hours. For testing purposes, can "reload" extension to reset the stand down effect.
 
 ## Stand-down test cases
 
