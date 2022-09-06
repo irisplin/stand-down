@@ -35,7 +35,9 @@ Notifier will stand down if user is redirected from a link that has a specific q
 <br>
 TW: redirect from [findprice](https://www.findprice.com.tw/go/gxrx3nzr/?s=0&t=1&afsrc=1) to [pcone](https://www.pcone.com.tw/)
 <br>
-SG: redirect from [picodi](https://metric.picodi.com/sg/r/89733?afsrc=1) to [amazon](https://www.amazon.sg/)
+AU: redirect from [honey](https://o.honey.io/store/89864159313478712/offer_claim?afsrc=1&src=honey-web¶m0=8703342671131122374&af0=1662446734556&af8=StoreFrontPageV3) to [petbarn](https://www.petbarn.com.au/)
+<br>
+petbarn belongs to Rakuten Advertising affiliate network. If SB Button is able to identify affiliate network's tracking link pattern (e.g., linksynergy), extension should stand down successfully even if the shortened or cloaked tracking link doesn't include afsrc=1. Nonetheless, this test case is to verify whether extension would stand down when a redirect link deliberately inlcudes the specified query string. The link is gathered from https://www.joinhoney.com/shop/petbarn-au
 <br>
 AU: redirect from [couponation](https://www.cuponation.com.au/api/seo/redirect?cid=86cf42151e0a90832203bad4da33fd6d&url=target-coupons&afsrc=1) to [target](https://www.target.com.au/)
 <br>
