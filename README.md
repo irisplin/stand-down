@@ -29,7 +29,10 @@ AU: redirect from [kickback](https://kickback.com.au/conversion/merchants/bonds/
 TW: redirect from [affiliate.api.rakuten.com](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&ar=1a0d8dccecb7dbb3e661d9ea76b24b5b3cc271130acbc8f83d8fecbdc9eefc6a9951df4322d2499b&pr=63b55d598d8c4861&ap=pr%3D63b55d598d8c4861&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Ffamily2%2Fproduct%2Fbncqwo57x%2F%3Fgid%3Da3748643a8bed24ab8750649a573e1dc%26scid%3Drafp-i001_%26) to [rakuten](https://www.rakuten.com.tw/)
 <br>
 TW: redirect from [biggo](https://biggo.com.tw/r/?i=tw_pmall_rakuten&id=biggo&purl=https%3A%2F%2Fwww.rakuten.com.tw&lb=index_storepage) to [affiliate.api.rakuten.com](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&ar=93cc11a5693c26fa8bc7c54f01b8f9e3b601e7027df43efb93000e3163fa586b1e4de7702a475dff&pr=420457e88ecc9146&ap=pr%3D420457e88ecc9146&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%3Fscid%3Drafp-b118%26utm_source%3Dbiggo%26utm_medium%3Drafp-b118%26utm_campaign%3Dnormal%26gid%3Dbiggo) to [rakuten](https://www.rakuten.com.tw/)
-
+<br>
+#### cjdomain
+SG: redirect from [Love Coupons](https://www.lovecoupons.com.sg/overstockcom) to [cjdomain-jdoqocy](https://www.jdoqocy.com/click-100001035-11557584?url=https%3A%2F%2Fwww.overstock.com%2F&sid=LCSG_B7500_S3_D1_CID36287402
+) to [overstock](https://www.overstock.com/)
 
 ### query string
 #### afsrc=1
