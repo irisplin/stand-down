@@ -32,6 +32,7 @@ TW: redirect from [biggo](https://biggo.com.tw/r/?i=tw_pmall_rakuten&id=biggo&pu
 
 
 ### query string
+#### afsrc=1
 Notifier will stand down if user is redirected from a link that has a specific query string. The afsrc=1 is an industry-recognized parameter that was created by the major affiliate networks to prevent software publishers from overwriting another publisher's link.
 <br>
 <br>
@@ -48,3 +49,7 @@ petbarn belongs to Rakuten Advertising affiliate network. If SB Button is able t
 AU: redirect from [couponation](https://www.cuponation.com.au/api/seo/redirect?cid=86cf42151e0a90832203bad4da33fd6d&url=target-coupons&afsrc=1) to [target](https://www.target.com.au/)
 <br>
 target.au belongs to Partnerize affiliate network, not Rakuten Advertising affiliate network. This test case is to test if extension would honour tracking link with afsrc=1 url parameter and successfully stands down even if the merchant belongs to other affiliate network.
+#### cjevent
+SG: redirect to [dell](https://www.dell.com/en-sg) via a link with [cjevent parameter](https://www.dell.com/en-sg?cjevent=b51af5a43e0511ed8179e6e60a180512&dgc=CJ&publisherid=4622663&publisher=&cjdata=MXxOfDB8WXww&gacd=9654672-23751073-5750457-267343041-128522248&dgc=af&dclid=CKbSiJvss_oCFftfDwIdiQYJyw) 
+<br>
+
