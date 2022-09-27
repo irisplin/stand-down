@@ -33,6 +33,10 @@ TW: redirect from [biggo](https://biggo.com.tw/r/?i=tw_pmall_rakuten&id=biggo&pu
 #### cjdomain
 SG: redirect from [Love Coupons](https://www.lovecoupons.com.sg/overstockcom) to [cjdomain-jdoqocy](https://www.jdoqocy.com/click-100001035-11557584?url=https%3A%2F%2Fwww.overstock.com%2F&sid=LCSG_B7500_S3_D1_CID36287402
 ) to [overstock](https://www.overstock.com/)
+<br>
+SG: redirect from [cuponation](https://www.cuponation.com.sg/dell-coupon) to [cjdomain-anrdoezrs](https://www.anrdoezrs.net/click-7915643-14512692?sid=A2ASUBID&url=https%3A%2F%2Fwww.dell.com%2Fen-sg) to [dell](https://www.dell.com/en-sg)
+TW: redirect from [Line](https://buy.line.me/u/partner/880047416611) to [cjdomain-emjcd](https://www.emjcd.com/links-i/?d=eyJzdXJmZXIiOiI0MDA4MDQ4NTgxOTMyNjAwMjY6TEZfa0wwQ29ENXBOIiwibGFzdENsaWNrTmFtZSI6IkxDTEsiLCJsYXN0Q2xpY2tWYWx1ZSI6ImNqbyF3ZGxwLWFqbmxrdTctd2VmaC10bHVqdzlxci14ZG11LXlnZ3A5bGgiLCJkZXN0aW5hdGlvblVybCI6Imh0dHBzOi8vd3d3Lmx1aXNhdmlhcm9tYS5jb20vIiwic2lkIjoiMTAwNTMxNDAwODc5MyIsInR5cGUiOiJkbGciLCJwaWQiOjEwMDEyMDU3NSwiZXZlbnRJZCI6ImZmYWNkMWFiM2UwNzExZWQ4MTc5ZTZlNzBhMTgwNTEyIiwiY2pTZXNzaW9uIjoiNjU5M2I4NTEtZDNmZi00Yjk0LTkxY2EtMWI3MmU1NmQ4YjFmIiwibG95YWx0eUV4cGlyYXRpb24iOjAsInJlZGlyZWN0ZWRUb0xpdmVyYW1wIjpmYWxzZSwiY2pDb25zZW50RW51bSI6Ik5FVkVSX0FTS0VEIn0%3D
+)to [Luisaviaroma](https://www.luisaviaroma.com/en-tw/)
 
 ### query string
 #### afsrc=1
