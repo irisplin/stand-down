@@ -36,6 +36,8 @@ SG: redirect from [Love Coupons](https://www.lovecoupons.com.sg/overstockcom) to
 <br>
 SG: redirect from [cuponation](https://www.cuponation.com.sg/dell-coupon) to [cjdomain-anrdoezrs](https://www.anrdoezrs.net/click-7915643-14512692?sid=A2ASUBID&url=https%3A%2F%2Fwww.dell.com%2Fen-sg) to [dell](https://www.dell.com/en-sg)
 <br>
+SG: redirect from [hardwarezone](https://coupons.hardwarezone.com.sg/dell-coupon) to [cjdomain-cj.dotomi](https://cj.dotomi.com/hc103shqp7/hot/69A67BE7/CE6AB98/5/5/5?j=oD3y%3DVNVnpWdY%26FC6%3D2EEAD%25OV%25Na%25NaHHH.yz66.x97%25Naz8-D1%3c%3c2EEAD%3A%2F%2FHHH.v8Cy9zKCD.8zE%2Fx63x5-SUMQRPO-MPQMNRUN%3c%3cb%3c2EEAD%3A%2F%2Fx9FA98D.2vCyHvCzK98z.x97.D1%2Fyz66-x9FA98%3c%3cM%3cM%3cL%3cL%3cL%3c) to [dell](https://www.dell.com/en-sg)
+<br>
 TW: redirect from [Line](https://buy.line.me/u/partner/880047416611) to [cjdomain-emjcd](https://www.emjcd.com/links-i/?d=eyJzdXJmZXIiOiI0MDA4MDQ4NTgxOTMyNjAwMjY6TEZfa0wwQ29ENXBOIiwibGFzdENsaWNrTmFtZSI6IkxDTEsiLCJsYXN0Q2xpY2tWYWx1ZSI6ImNqbyF3ZGxwLWFqbmxrdTctd2VmaC10bHVqdzlxci14ZG11LXlnZ3A5bGgiLCJkZXN0aW5hdGlvblVybCI6Imh0dHBzOi8vd3d3Lmx1aXNhdmlhcm9tYS5jb20vIiwic2lkIjoiMTAwNTMxNDAwODc5MyIsInR5cGUiOiJkbGciLCJwaWQiOjEwMDEyMDU3NSwiZXZlbnRJZCI6ImZmYWNkMWFiM2UwNzExZWQ4MTc5ZTZlNzBhMTgwNTEyIiwiY2pTZXNzaW9uIjoiNjU5M2I4NTEtZDNmZi00Yjk0LTkxY2EtMWI3MmU1NmQ4YjFmIiwibG95YWx0eUV4cGlyYXRpb24iOjAsInJlZGlyZWN0ZWRUb0xpdmVyYW1wIjpmYWxzZSwiY2pDb25zZW50RW51bSI6Ik5FVkVSX0FTS0VEIn0%3D
 ) to [Luisaviaroma](https://www.luisaviaroma.com/en-tw/)
 
