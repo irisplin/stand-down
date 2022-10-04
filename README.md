@@ -32,7 +32,7 @@ TW: redirect from [biggo](https://biggo.com.tw/r/?i=tw_pmall_rakuten&id=biggo&pu
 <br>
 #### cjdomain
 SG: redirect from [Love Coupons](https://www.lovecoupons.com.sg/overstockcom) to [cjdomain-jdoqocy](https://www.jdoqocy.com/click-100001035-11557584?url=https%3A%2F%2Fwww.overstock.com%2F&sid=LCSG_B7500_S3_D1_CID36287402
-) to [overstock](https://www.overstock.com/)
+) to [cjdomain-emjcd](https://www.emjcd.com/h9115vpyxH/pw0/EEIIKILH/EDDDDEDGI/D/HDDMDHLIMKDFKMJJHJ:rkrAdRP1Q8Tc/oMpHKFFqHGsEEErqLDFqMGnLDnELDIEF?g=f9zu%3DcTjX_SOMHH_jK_UI_TZUKNJPOLHJ%26B82%3DyAA69%25KR%25JW%25JWDDD.5Cv89A5t1.t53%25JW%3ct05!Dvwy-r0OrFMQ-Eu3B-ArPQs6sN-Et34-A2Bu3ACr-EvBL-ArPEL1y0-EutP-CvAL0Cw-DP3v-2uDDIJE-EvBK-GsHO276-DGBB-DNrttNF-D8y2-CvLFM5Q-D8D3-uLPuQxr-EyOM-CvLFJJB-Du26-47NQKys%3cyAA69%3A%2F%2FDDD.0u575tF.t53%2Ft2zt1-IHHHHIHKM-IIMMOMPL%3c%3cX%3cyAA69%3A%2F%2FxzAyBs.t53%2Fz8z962z4%2F9Ar4u-u5D4%2Fs25s%2Fxy-6rxv9%2FiVRUdV.3u%3cJPPNMOtP-OJuH-LJNw-rtON-OJsuOKHOvJKJ%3cI%3cI%3cH%3cH%3cH%3c) to [overstock](https://www.overstock.com/)
 <br>
 SG: redirect from [cuponation](https://www.cuponation.com.sg/dell-coupon) to [cjdomain-anrdoezrs](https://www.anrdoezrs.net/click-7915643-14512692?sid=A2ASUBID&url=https%3A%2F%2Fwww.dell.com%2Fen-sg) to [dell](https://www.dell.com/en-sg)
 <br>
