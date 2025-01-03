@@ -16,8 +16,6 @@ Notifiers will stand down if user is redirected from a link that belongs to an a
 #### linksynergy 
 SG: redirect from [couponation](https://www.cuponation.com.sg/api/seo/redirect?cid=be18fa962bb4793b33a42c970afdca7b&url=dyson-coupon) to [linksynergy](https://click.linksynergy.com/deeplink?id=xGCTEDxXvh0&mid=47231&u1=A2ASUBID&murl=https%3A%2F%2Fwww.dyson.com.sg%2F?utm_content=cuponation) to [dyson](https://www.dyson.com.sg/)
 <br>
-SG: redirect from [milkadeal](https://www.milkadeal.sg/stores/shop/48) to [linksynergy](https://click.linksynergy.com/deeplink?id=KtlS/wRigh4&mid=41134&u1=MDDTSG15982&murl=https%3A%2F%2Fwww.nike.com%2Fsg%2Fen_gb%2F) to [nike](https://www.nike.com/sg/)
-<br>
 TW: redirect from [rewardpay](https://tk.rewardpay.com/?M=129078&U=39150&UT=1&AID=2&APID=1&AC=RP) to [linksynergy](https://click.linksynergy.com/deeplink?id=pITOEqOhvpQ&mid=40584&u1=220809176f4427441e9547&subid=1260439&murl=https%3A%2F%2Fwww.yoox.com%2Ftw%2Fwomen) to [yoox](https://www.yoox.com/tw)
 <br>
 AU: redirect from [quantas](https://shopping.qantas.com/shop?id=petbarn) to [linksynergy](https://click.linksynergy.com/fs-bin/click?id=/yGfdSU4Hew&offerid=502078.5&type=3&subid=0&u1=t625284142m) to [petbarn](https://www.petbarn.com.au/)
